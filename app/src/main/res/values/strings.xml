@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test Demo</string>
+    <string name="test_demo">TEST DEMO</string>
+    <string name="logout">LOGOUT</string>
+</resources>
